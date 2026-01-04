@@ -1,0 +1,7 @@
+{
+  "name": "Corpus Sanum",
+  "description": "A personal health awareness and reflection app focusing on visibility, consistency, and patterns without judgmental metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
